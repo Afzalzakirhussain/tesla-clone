@@ -90,8 +90,7 @@ const Container = styled.div`
   background-color: rgba(256, 256, 256, 0.005);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
-  /* -webkit-backdrop-filter: blur(5px); */
-  /* backdrop-filter: blur(5px); */
+  
 `;
 const Menu = styled.div`
   display: flex;
