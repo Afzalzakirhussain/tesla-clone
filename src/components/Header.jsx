@@ -11,7 +11,7 @@ function Header() {
     <Container>
       <Fade left>
         <a>
-          <img src="/images/logo.svg" alt="TESLA" />
+          <img src="./images/logo.svg" alt="TESLA" />
         </a>
       </Fade>
       <Menu>
