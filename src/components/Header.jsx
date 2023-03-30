@@ -18,7 +18,7 @@ function Header() {
         <a href="#">Model S</a>
 
         <a href="#">Model 3</a>
- <a href="#">Afzal</a>
+
         <a href="#">Model X</a>
 
         <a href="#">Model Y</a>
