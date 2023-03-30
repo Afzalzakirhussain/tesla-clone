@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tesla-clone/static/css/main.b394f9e7.css",
-    "main.js": "/tesla-clone/static/js/main.66ef8b09.js",
+    "main.js": "/tesla-clone/static/js/main.dc549da2.js",
     "static/js/787.860837ff.chunk.js": "/tesla-clone/static/js/787.860837ff.chunk.js",
     "static/media/solar-roof.jpg": "/tesla-clone/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
     "static/media/solar-panel.jpg": "/tesla-clone/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
@@ -14,11 +14,11 @@
     "index.html": "/tesla-clone/index.html",
     "static/media/down-arrow.svg": "/tesla-clone/static/media/down-arrow.9b52668fb01a76a29986dae3032abd3f.svg",
     "main.b394f9e7.css.map": "/tesla-clone/static/css/main.b394f9e7.css.map",
-    "main.66ef8b09.js.map": "/tesla-clone/static/js/main.66ef8b09.js.map",
+    "main.dc549da2.js.map": "/tesla-clone/static/js/main.dc549da2.js.map",
     "787.860837ff.chunk.js.map": "/tesla-clone/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b394f9e7.css",
-    "static/js/main.66ef8b09.js"
+    "static/js/main.dc549da2.js"
   ]
 }
